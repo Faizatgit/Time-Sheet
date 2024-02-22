@@ -1,0 +1,7 @@
+Employee Name: Faizan, Date: 2024-02-16, Hours Worked: 6, Reporting Manager: xyz
+Employee Name: , Date: , Hours Worked: , Reporting Manager: 
+Employee Name: Faizan, Date: 2024-02-17, Hours Worked: 7, Reporting Manager: Manisha
+Employee Name: Faizan, Date: 2024-02-16, Hours Worked: 7, Reporting Manager: Parth
+Employee Name: Faizan, Date: 2024-02-23, Hours Worked: 7, Reporting Manager: Manish, Rating undefined
+Employee Name: Faizan, Date: 2024-02-23, Hours Worked: 8, Reporting Manager: Manish, Rating 4
+Employee Name: Faizan, Date: 2024-02-24, Hours Worked: 8, Reporting Manager: manish, Rating 4

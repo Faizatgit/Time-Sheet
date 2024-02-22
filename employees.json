@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "position": "Software Engineer",
+        "department": "Engineering",
+        "email": "john.doe@example.com"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "position": "UI/UX Designer",
+        "department": "Design",
+        "email": "jane.smith@example.com"
+    },
+    {
+        "id": 3,
+        "name": "Michael Johnson",
+        "position": "Project Manager",
+        "department": "Management",
+        "email": "michael.johnson@example.com"
+    },
+    {
+        "id": 4,
+        "name": "Emily Davis",
+        "position": "Marketing Specialist",
+        "department": "Marketing",
+        "email": "emily.davis@example.com"
+    },
+    {
+        "id": 5,
+        "name": "Christopher Wilson",
+        "position": "Data Analyst",
+        "department": "Analytics",
+        "email": "christopher.wilson@example.com"
+    },
+    {
+        "id": 6,
+        "name": "Sarah Brown",
+        "position": "HR Manager",
+        "department": "Human Resources",
+        "email": "sarah.brown@example.com"
+    },
+    {
+        "id": 7,
+        "name": "Matthew Taylor",
+        "position": "Financial Analyst",
+        "department": "Finance",
+        "email": "matthew.taylor@example.com"
+    },
+    {
+        "id": 8,
+        "name": "Olivia Martinez",
+        "position": "Graphic Designer",
+        "department": "Design",
+        "email": "olivia.martinez@example.com"
+    },
+    {
+        "id": 9,
+        "name": "William Anderson",
+        "position": "Sales Manager",
+        "department": "Sales",
+        "email": "william.anderson@example.com"
+    },
+    {
+        "id": 10,
+        "name": "Sophia Thomas",
+        "position": "Customer Service Representative",
+        "department": "Customer Service",
+        "email": "sophia.thomas@example.com"
+    }
+]
